@@ -1,0 +1,11 @@
+git remote add upstream git@github.com:OmicsLite/BRSPTranscriptomics.git
+git fetch upstream
+
+git checkout -b feature/add-new-file upstream/main
+
+mkdir -p path/to
+echo "isi file" > path/to/namafile.md
+
+git commit -m "Add namafile.md: deskripsi singkat"
+
+git push -u upstream feature/add-new-file
