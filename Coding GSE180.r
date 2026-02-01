@@ -1,5 +1,5 @@
 #Modul: Analisis Vaksin Dengue 
-#Dataset: GSE10072 (Lung Adenocarcinoma vs Normal)
+#Dataset: GSE18090 (Dengue)
 #Platform: Microarray (Affymetrix GPL96)
 #Tujuan: Mengidentifikasi Differentially Expressed Genes (DEG) 
 
